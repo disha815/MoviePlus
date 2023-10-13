@@ -18,29 +18,7 @@ Check out a live demo and try it for yourself: [demo](https://cinemy.vercel.app/
 ## Home Page
    <kbd><img src="https://drive.google.com/uc?id=1fEpBRkFQvX3zhUDGflPHDEq7e_j8AZWP"/></kbd>
  
-  ## Run these Commands:
- These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
-### Step 1:Clone the repository
-     git clone https://github.com/tech-jamara/React-Movie-App.git
-### step 2:Navigate to the clone 
-     cd your_path/React-Movie-App 
-#### Step 3: Install Node.js dependencies:
-     npm install        
-#### Step 4: Set your api key environment variable(.env). Get an api key from  [TheMovieDb](https://www.themoviedb.org/)
-     REACT_APP_API_KEY=your_api_key
-#### Step 5:
-     npm  start  
-
-## Single page 
- <kbd><img src="https://drive.google.com/uc?id=14xckC8Zbrvz2rUuHkh084pNZVnoarz-J"/></kbd>
-
  
- ##
- MIT License
-
-Copyright (c) 2022 James Waweru
-
-
 <!-- <div> 
       <kbd><img src="https://drive.google.com/uc?id=1-Ne-XbWZt1y2Tj6rh3VcJ2eQPcZXC0ci"  height='535' width='440' /> </kbd>  
       <kbd><img src="https://drive.google.com/uc?id=1aK9Y8T847hrKUvVxHXkN3I9Ch2fam3Dz" height='535' width='290' /></kbd>
