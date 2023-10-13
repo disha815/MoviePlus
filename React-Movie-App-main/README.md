@@ -17,7 +17,11 @@ Check out a live demo and try it for yourself: [demo](https://cinemy.vercel.app/
 
 ## Home Page
    <kbd><img src="https://drive.google.com/uc?id=1fEpBRkFQvX3zhUDGflPHDEq7e_j8AZWP"/></kbd>
- 
+
+ ##
+ MIT License
+
+Copyright (c) 2023
  
 <!-- <div> 
       <kbd><img src="https://drive.google.com/uc?id=1-Ne-XbWZt1y2Tj6rh3VcJ2eQPcZXC0ci"  height='535' width='440' /> </kbd>  
