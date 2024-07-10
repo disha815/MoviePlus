@@ -9,9 +9,6 @@ For UI creation HTML5 and CSS3 and material-UI are used
 
 This is a responsive web application for viewing in both Mobile and Desktop.
 
-## Demo
-
-Check out a live demo and try it for yourself: [demo](https://cinemy.vercel.app/)
 
 <!-- # ScreenShots -->
 
