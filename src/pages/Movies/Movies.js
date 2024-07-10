@@ -6,6 +6,9 @@ import SingleData from "../../components/SingleData/SingleData";
 import Myloader from "react-spinners/PuffLoader";
 import Genre from "../../components/Genres/Genre";
 import useGenre from "../../components/Genres/UseGenre";
+//import { linearProgressClasses } from "@mui/material";
+//import { yellow } from "@material-ui/core/colors";
+//import { withTheme } from "@material-ui/core";
 
 const Movies = () => {
   const [treadingContent, setTreadingContent] = useState([]);
