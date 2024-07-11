@@ -17,7 +17,7 @@ const Trending = () => {
     const { data } = await axios.get(
       `https://api.themoviedb.org/3/trending/all/day?api_key=${process.env.REACT_APP_API_KEY}&page=${page}`
     );
-    https://api.themoviedb.org/3/trending/movie/day?language=en-US
+    
     setTrendingContent(data.results);
     setIsLoading(true);
     // eslint-disable-next-line
